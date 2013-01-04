@@ -21,6 +21,7 @@
 #include <sys/socket.h>
 #include <sys/un.h>
 #include <arpa/inet.h>
+#include <linux/net.h>
 #include <linux/netlink.h>
 #include <linux/filter.h>
 
